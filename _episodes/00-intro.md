@@ -13,7 +13,7 @@ keypoints:
 > ## Things You’ll Need To Complete This Tutorial
 > #### Spreadsheet Software
 > To work through this tutorial you will need access to a spreadsheet program.
-> Many computers come with a pre-installed spreadsheet program like Excel. macOS users who use Apple’s Numbers application should note that it does not contain some of the features (particularly data validation) that we will be using. Please use LibreOffice or Microsoft Excel instead.
+> Many computers come with a pre-installed spreadsheet program like Excel. macOS users who use Apple’s Numbers application should note that it does not contain some of the features (particularly data validation) that we will be using. Similarly, Google Sheets lacks the features necessary for this lesson. Please use LibreOffice or Microsoft Excel instead.
 
 > If you do not have a spreadsheet program, install one using the instructions
 > in the link below.
